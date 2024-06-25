@@ -1,0 +1,24 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Manis"
+
+    },
+    {
+        "id":2,
+        "name":"Sudpta"
+
+},
+{
+    "id":3,
+    "name":"Rupesh"
+
+}
+],
+"posts":[{
+    "postId":101,
+    "username":"Rupesh"
+}]
+
+}
